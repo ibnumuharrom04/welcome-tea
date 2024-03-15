@@ -1,0 +1,19 @@
+{
+  "name": "welcome-tea",
+  "version": "0.1.0",
+  "description": "The first of tea project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibnumuharrom04/welcome-tea.git"
+  },
+  "author": "ibnumuharrom04",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibnumuharrom04/welcome-tea/issues"
+  },
+  "homepage": "https://github.com/ibnumuharrom04/welcome-tea#readme"
+}
